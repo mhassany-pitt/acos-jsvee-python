@@ -430,26 +430,418 @@ JSVEEPython.meta = {
       'concepts': ['For', 'Index', 'Assign', 'Attribute', 'Int', 'Eq', 'Str', 'FunctionDef', 'Call', 'If'],
       'keywords': ['file', 'iteration']
     },
-    'py_aj_recursive_countdown': {
-      'description': '//TODO',
-      'order': 56,
-      'title': 'py_aj_recursive_countdown',
-      'concepts': [],
-      'keywords': []
+    "ae_adl_format3": {
+      "description": "",
+      "order": 56,
+      "title": "ae_adl_format3",
+      "concepts": [],
+      "keywords": []
     },
-    'py_aj_prepend_list': {
-      'description': '//TODO',
-      'order': 57,
-      'title': 'py_aj_prepend_list',
-      'concepts': [],
-      'keywords': []
+    "ae_adl_format4": {
+      "description": "",
+      "order": 57,
+      "title": "ae_adl_format4",
+      "concepts": [],
+      "keywords": []
     },
-    'py_aj_linear_search': {
-      'description': '//TODO',
-      'order': 58,
-      'title': 'py_aj_linear_search',
-      'concepts': [],
-      'keywords': []
+    "age_checking": {
+      "description": "",
+      "order": 58,
+      "title": "age_checking",
+      "concepts": [],
+      "keywords": []
+    },
+    "age_checking2": {
+      "description": "",
+      "order": 59,
+      "title": "age_checking2",
+      "concepts": [],
+      "keywords": []
+    },
+    "bubble_sort_best": {
+      "description": "",
+      "order": 60,
+      "title": "bubble_sort_best",
+      "concepts": [],
+      "keywords": []
+    },
+    "bubble_sort_worst": {
+      "description": "",
+      "order": 61,
+      "title": "bubble_sort_worst",
+      "concepts": [],
+      "keywords": []
+    },
+    "circle_class": {
+      "description": "",
+      "order": 62,
+      "title": "circle_class",
+      "concepts": [],
+      "keywords": []
+    },
+    "circle_class2": {
+      "description": "",
+      "order": 63,
+      "title": "circle_class2",
+      "concepts": [],
+      "keywords": []
+    },
+    "circle_class3": {
+      "description": "",
+      "order": 64,
+      "title": "circle_class3",
+      "concepts": [],
+      "keywords": []
+    },
+    "data_type_isinstance": {
+      "description": "",
+      "order": 65,
+      "title": "data_type_isinstance",
+      "concepts": [],
+      "keywords": []
+    },
+    "data_type_typeof": {
+      "description": "",
+      "order": 66,
+      "title": "data_type_typeof",
+      "concepts": [],
+      "keywords": []
+    },
+    "discount_calculator": {
+      "description": "",
+      "order": 67,
+      "title": "discount_calculator",
+      "concepts": [],
+      "keywords": []
+    },
+    "discount_calculator2": {
+      "description": "",
+      "order": 68,
+      "title": "discount_calculator2",
+      "concepts": [],
+      "keywords": []
+    },
+    "discount_calculator3": {
+      "description": "",
+      "order": 69,
+      "title": "discount_calculator3",
+      "concepts": [],
+      "keywords": []
+    },
+    "doubly_linked_list": {
+      "description": "",
+      "order": 70,
+      "title": "doubly_linked_list",
+      "concepts": [],
+      "keywords": []
+    },
+    "employee_class": {
+      "description": "",
+      "order": 71,
+      "title": "employee_class",
+      "concepts": [],
+      "keywords": []
+    },
+    "find_max2": {
+      "description": "",
+      "order": 72,
+      "title": "find_max2",
+      "concepts": [],
+      "keywords": []
+    },
+    "find_target": {
+      "description": "",
+      "order": 73,
+      "title": "find_target",
+      "concepts": [],
+      "keywords": []
+    },
+    "function_pass": {
+      "description": "",
+      "order": 74,
+      "title": "function_pass",
+      "concepts": [],
+      "keywords": []
+    },
+    "greatest_divisor_brute_force": {
+      "description": "",
+      "order": 75,
+      "title": "greatest_divisor_brute_force",
+      "concepts": [],
+      "keywords": []
+    },
+    "greatest_divisor_brute_force2": {
+      "description": "",
+      "order": 76,
+      "title": "greatest_divisor_brute_force2",
+      "concepts": [],
+      "keywords": []
+    },
+    "import_math": {
+      "description": "",
+      "order": 77,
+      "title": "import_math",
+      "concepts": [],
+      "keywords": []
+    },
+    "inheritance": {
+      "description": "",
+      "order": 78,
+      "title": "inheritance",
+      "concepts": [],
+      "keywords": []
+    },
+    "leap_year": {
+      "description": "",
+      "order": 79,
+      "title": "leap_year",
+      "concepts": [],
+      "keywords": []
+    },
+    "leap_year2": {
+      "description": "",
+      "order": 80,
+      "title": "leap_year2",
+      "concepts": [],
+      "keywords": []
+    },
+    "leap_year3": {
+      "description": "",
+      "order": 81,
+      "title": "leap_year3",
+      "concepts": [],
+      "keywords": []
+    },
+    "list_pop": {
+      "description": "",
+      "order": 82,
+      "title": "list_pop",
+      "concepts": [],
+      "keywords": []
+    },
+    "palindrome": {
+      "description": "",
+      "order": 83,
+      "title": "palindrome",
+      "concepts": [],
+      "keywords": []
+    },
+    "partition": {
+      "description": "",
+      "order": 84,
+      "title": "partition",
+      "concepts": [],
+      "keywords": []
+    },
+    "partition2": {
+      "description": "",
+      "order": 85,
+      "title": "partition2",
+      "concepts": [],
+      "keywords": []
+    },
+    "partition3": {
+      "description": "",
+      "order": 86,
+      "title": "partition3",
+      "concepts": [],
+      "keywords": []
+    },
+    "power": {
+      "description": "",
+      "order": 87,
+      "title": "power",
+      "concepts": [],
+      "keywords": []
+    },
+    "power_with_input": {
+      "description": "",
+      "order": 88,
+      "title": "power_with_input",
+      "concepts": [],
+      "keywords": []
+    },
+    "power_with_input2": {
+      "description": "",
+      "order": 89,
+      "title": "power_with_input2",
+      "concepts": [],
+      "keywords": []
+    },
+    "power_with_input3": {
+      "description": "",
+      "order": 90,
+      "title": "power_with_input3",
+      "concepts": [],
+      "keywords": []
+    },
+    "power_with_input4": {
+      "description": "",
+      "order": 91,
+      "title": "power_with_input4",
+      "concepts": [],
+      "keywords": []
+    },
+    "power2": {
+      "description": "",
+      "order": 92,
+      "title": "power2",
+      "concepts": [],
+      "keywords": []
+    },
+    "queue": {
+      "description": "",
+      "order": 93,
+      "title": "queue",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_fibonacci": {
+      "description": "",
+      "order": 94,
+      "title": "recursion_fibonacci",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_greatest_divisor": {
+      "description": "",
+      "order": 95,
+      "title": "recursion_greatest_divisor",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_greatest_divisor2": {
+      "description": "",
+      "order": 96,
+      "title": "recursion_greatest_divisor2",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_halve": {
+      "description": "",
+      "order": 97,
+      "title": "recursion_halve",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_halve2": {
+      "description": "",
+      "order": 98,
+      "title": "recursion_halve2",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_mult2_version1": {
+      "description": "",
+      "order": 99,
+      "title": "recursion_mult2_version1",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_mult2_version2": {
+      "description": "",
+      "order": 100,
+      "title": "recursion_mult2_version2",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_sum": {
+      "description": "",
+      "order": 101,
+      "title": "recursion_sum",
+      "concepts": [],
+      "keywords": []
+    },
+    "recursion_sum2": {
+      "description": "",
+      "order": 102,
+      "title": "recursion_sum2",
+      "concepts": [],
+      "keywords": []
+    },
+    "selection_sort": {
+      "description": "",
+      "order": 103,
+      "title": "selection_sort",
+      "concepts": [],
+      "keywords": []
+    },
+    "selection_sort2": {
+      "description": "",
+      "order": 104,
+      "title": "selection_sort2",
+      "concepts": [],
+      "keywords": []
+    },
+    "singly_linked_list": {
+      "description": "",
+      "order": 105,
+      "title": "singly_linked_list",
+      "concepts": [],
+      "keywords": []
+    },
+    "stack_lifo1": {
+      "description": "",
+      "order": 106,
+      "title": "stack_lifo1",
+      "concepts": [],
+      "keywords": []
+    },
+    "stack_lifo2": {
+      "description": "",
+      "order": 107,
+      "title": "stack_lifo2",
+      "concepts": [],
+      "keywords": []
+    },
+    "student_class": {
+      "description": "",
+      "order": 108,
+      "title": "student_class",
+      "concepts": [],
+      "keywords": []
+    },
+    "studet_class2": {
+      "description": "",
+      "order": 109,
+      "title": "studet_class2",
+      "concepts": [],
+      "keywords": []
+    },
+    "tree": {
+      "description": "",
+      "order": 110,
+      "title": "tree",
+      "concepts": [],
+      "keywords": []
+    },
+    "tree_node_access": {
+      "description": "",
+      "order": 111,
+      "title": "tree_node_access",
+      "concepts": [],
+      "keywords": []
+    },
+    "py_aj_recursive_countdown": {
+      "description": "",
+      "order": 112,
+      "title": "py_aj_recursive_countdown",
+      "concepts": [],
+      "keywords": []
+    },
+    "py_aj_prepend_list": {
+      "description": "",
+      "order": 113,
+      "title": "py_aj_prepend_list",
+      "concepts": [],
+      "keywords": []
+    },
+    "py_aj_linear_search": {
+      "description": "",
+      "order": 114,
+      "title": "py_aj_linear_search",
+      "concepts": [],
+      "keywords": []
     },
   }
 };
