@@ -1,26 +1,24 @@
-var JSVEEPython = function() {};
+var JSVEEPython = function () { };
 
-JSVEEPython.addToHead = function(params) {
+JSVEEPython.addToHead = function (params) {
   return '<script src="/static/jsvee-python/JSVEE-python-min.js" type="text/javascript"></script>\n' +
     '<script src="/static/jsvee-python/JSVEE-content-min.js" type="text/javascript"></script>\n' +
     '<link href="/static/jsvee-python/jsvee-python.css" rel="stylesheet">\n';
 };
 
-JSVEEPython.addToBody = function(params) {
+JSVEEPython.addToBody = function (params) {
   return '';
 };
 
-JSVEEPython.initialize = function(req, params, handlers, cb) {
-
+JSVEEPython.initialize = function (req, params, handlers, cb) {
   // Initialize the content package
   params.headContent += JSVEEPython.addToHead(params);
   params.bodyContent += JSVEEPython.addToBody(params);
 
   cb();
-
 };
 
-JSVEEPython.register = function(handlers) {
+JSVEEPython.register = function (handlers) {
   handlers.contentPackages['jsvee-python'] = JSVEEPython;
   handlers.contentTypes.jsvee.installedContentPackages.push(JSVEEPython);
 };
@@ -94,7 +92,7 @@ JSVEEPython.meta = {
       'title': 'ae_adl_greet',
       'concepts': ['Str', 'Assign', 'Call'],
       'keywords': ['input']
-      
+
     },
     'ae_adl_input1': {
       'description': 'An example of getting two values from the user and calculating the sum of them.',
@@ -431,7 +429,28 @@ JSVEEPython.meta = {
       'title': 'ae_adl_file2',
       'concepts': ['For', 'Index', 'Assign', 'Attribute', 'Int', 'Eq', 'Str', 'FunctionDef', 'Call', 'If'],
       'keywords': ['file', 'iteration']
-    }
+    },
+    'py_aj_recursive_countdown': {
+      'description': '//TODO',
+      'order': 56,
+      'title': 'py_aj_recursive_countdown',
+      'concepts': [],
+      'keywords': []
+    },
+    'py_aj_prepend_list': {
+      'description': '//TODO',
+      'order': 57,
+      'title': 'py_aj_prepend_list',
+      'concepts': [],
+      'keywords': []
+    },
+    'py_aj_linear_search': {
+      'description': '//TODO',
+      'order': 58,
+      'title': 'py_aj_linear_search',
+      'concepts': [],
+      'keywords': []
+    },
   }
 };
 
